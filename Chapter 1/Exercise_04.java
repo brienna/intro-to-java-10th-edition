@@ -7,7 +7,7 @@ a       a^2     a^3
 4       16      64
 */ 
 
-public class SquaresCubesTable {
+public class Exercise_04 {
     public static void main(String[] args) {
         System.out.println("a\ta^2\ta^3");
         for(int row = 0; row <= 4; row++) {
